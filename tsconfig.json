@@ -1,6 +1,8 @@
 {
   "compilerOptions": {
     "target": "es5",
+    "rootDir": "./src", // new
+    "outDir": "./dist", // new
     "lib": [
       "dom",
       "dom.iterable",
